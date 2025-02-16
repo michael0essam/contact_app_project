@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title>Elmounir Contacts Application</title>
+    <style>
+        body {
+            background-color: #444444;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            display: flex; /* Use Flexbox for centering */
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            min-height: 100vh; /* Ensure full viewport height */
+        }
+
+            /* Contact list styling */
+        .contact-list {
+        font-size: 24px; /* Increase font size for better visibility */
+        line-height: 1.8; /* Add more spacing between lines */
+        list-style-type: none; /* Remove default bullet points */
+        padding: 0; /* Remove default padding */
+        }
+
+        .contact-list li {
+        margin-bottom: 20px; /* Add spacing between each contact entry */
+        padding: 10px; /* Add padding around each contact entry */
+        background-color: #333333; /* Optional: Add a background color */
+        border-radius: 5px; /* Optional: Add rounded corners */
+        }
+
+        .contact-list strong {
+        color: #ff7300; /* Highlight labels (e.g., ID, Name, Company) */
+        }
+
+        .main-frame {
+            padding: 20px;
+            width: 80%; /* Adjust width as needed */
+            max-width: 600px; /* Optional: Limit maximum width */
+            text-align: center; /* Center-align text inside the frame */
+            background-color: #333333; /* Optional: Add a background color */
+            border-radius: 10px; /* Optional: Add rounded corners */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add shadow */
+        }
+
+        /* Add this block for the logout button */
+        .auth-buttons {
+            position: absolute; /* Position the button absolutely */
+            top: 10px; /* Adjust vertical position */
+            right: 10px; /* Align to the right edge */
+        }
+
+        .auth-buttons button, .auth-buttons a.button {
+            font-size: 14px;
+            padding: 10px 20px;
+            background-color: #ff7300;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .auth-buttons button:hover, .auth-buttons a.button:hover {
+            background-color: #4CAF50;
+        }
+
+        label {
+            font-size: 20px;
+            display: block; /* Ensure labels are on their own line */
+            margin-bottom: 5px;
+        }
+        input, select {
+            font-size: 18px;
+            padding: 10px;
+            margin: 5px 0;
+            width: 100%; /* Full width inputs */
+            box-sizing: border-box; /* Include padding/border in width */
+        }
+        /* Style for search buttons */
+        .search-button {
+            font-size: 14px;
+            padding: 10px 20px;
+            background-color: #ff7300; /* Green for search buttons */
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            width: 100%; /* Make search buttons fill the container */
+        }
+        .search-button:hover {
+            background-color: #3e8e41; /* Darker green on hover */
+        }
+        /* Style for action buttons */
+        .action-button {
+            font-size: 14px;
+            padding: 10px 20px;
+            background-color: #ff7300; /* Orange for action buttons */
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            width: auto; /* Action buttons do not stretch */
+            margin: 5px;
+        }
+        .action-button:hover {
+            background-color: #4CAF50; /* Change color on hover */
+        }
+        .output-text {
+            width: 100%;
+            height: 200px;
+            background-color: #444444;
+            color: white;
+            font-size: 30px;
+            resize: none;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+
+
+<body>
+    <!-- Authentication Buttons -->
+    <div class="auth-buttons">
+        {% if user.is_authenticated %}
+            <a href="{% url 'logout' %}" class="button">Logout</a>
+        {% else %}
+            <a href="{% url 'login' %}" class="button">Login</a>
+        {% endif %}
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-frame">
+        {% block content %}{% endblock %}
+    </div>
+</body>
+
+</html>

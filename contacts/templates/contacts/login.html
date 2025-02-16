@@ -1,0 +1,20 @@
+{% extends 'contacts/base.html' %}
+
+{% block content %}
+<h1>Login</h1>
+<form method="post">
+    {% csrf_token %}
+    <label>Username:</label>
+    <input type="text" name="username" placeholder="Enter username" required><br><br>
+    <label>Password:</label>
+    <input type="password" name="password" placeholder="Enter password" required><br><br>
+    <button type="submit" class="action-button">Login</button>
+</form>
+{% if messages %}
+<div class="messages">
+    {% for message in messages %}
+    <p {% if message.tags %} class="{{ message.tags }}" {% endif %}>{{ message }}</p>
+    {% endfor %}
+</div>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,66 @@
+{% extends 'contacts/base.html' %}
+
+{% block content %}
+<h1>Elmounir Contacts Application</h1>
+
+
+<!-- ID Search -->
+<form method="post">
+    {% csrf_token %}
+    <label>ID:</label>
+    <input type="text" name="id" placeholder="Enter ID">
+    <button type="submit" class="search-button">Search by ID</button>
+</form>
+
+<!-- Name Search -->
+<form method="post">
+    {% csrf_token %}
+    <label>Name:</label>
+    <input type="text" name="search_query" placeholder="Enter Name">
+    <button type="submit" class="search-button">Search</button>
+</form>
+
+<!-- Display Contacts -->
+<ul class="contact-list">
+    {% if contacts %}
+    {% for contact in contacts %}
+    <li>
+        <strong>ID:</strong> {{ contact.id }}<br>
+        <strong>Name:</strong> {{ contact.name }}<br>
+        <strong>Company:</strong> {{ contact.company }}<br>
+        <strong>Card 1:</strong> {{ contact.card1 }}<br>
+        <strong>Card 2:</strong> {{ contact.card2 }}<br>
+        <strong>Phone:</strong> {{ contact.phone }}<br>
+        <br>
+        <a href="{% url 'update_contact' contact.id %}" class="action-button">Edit</a>
+        <form action="{% url 'delete_contact' contact.id %}" method="POST" style="display:inline;" onsubmit="return confirmDelete('{{ contact.name }}');">
+            {% csrf_token %}
+            <button type="submit" class="action-button">Delete</button>
+            <p>-----------------------------------------</p>
+        </form>
+    </li>
+    {% endfor %}
+    {% elif search_performed %}
+    <li>No contacts found.</li> <!-- Display this only if a search was performed -->
+    {% endif %}
+</ul>
+
+<!-- Buttons -->
+<a href="{% url 'add_contact' %}" class="action-button">Add Contact</a>
+<a href="{% url 'display_contacts' %}" class="action-button">Display Contacts</a>
+
+<!-- Output Area -->
+<div class="output-text">
+    {% if message %}
+    <p>{{ message }}</p>
+    {% endif %}
+</div>
+
+<script>
+    function confirmDelete(contactName) {
+        // Prompt the user with a confirmation message
+        return confirm(`Do you really want to delete "${contactName}"?`);
+    }
+</script>
+
+{% endblock %}

@@ -1,0 +1,659 @@
+2025-02-16 02:39:15,688 - INFO - Core rate limit: 5000
+Core requests remaining: 4935
+Core requests used: 65
+2025-02-16 02:39:15,692 - INFO - Changes downloaded successfully during login.
+2025-02-16 02:39:18,458 - INFO - Core rate limit: 5000
+Core requests remaining: 4932
+Core requests used: 68
+2025-02-16 02:39:18,585 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 02:39:38,473 - ERROR - Error searching by ID: No Contact matches the given query.
+2025-02-16 02:52:14,881 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 02:52:15,045 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 02:52:15,312 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 02:52:16,051 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 02:55:55,907 - INFO - Core rate limit: 5000
+Core requests remaining: 4997
+Core requests used: 3
+2025-02-16 02:55:56,034 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 02:56:03,015 - INFO - Core rate limit: 5000
+Core requests remaining: 4995
+Core requests used: 5
+2025-02-16 02:56:03,015 - INFO - Changes downloaded successfully during login.
+2025-02-16 02:56:05,808 - INFO - Core rate limit: 5000
+Core requests remaining: 4992
+Core requests used: 8
+2025-02-16 02:56:06,052 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 02:56:51,268 - INFO - No contacts found for query: test3
+2025-02-16 02:57:00,220 - INFO - No contacts found for ID: 5050
+2025-02-16 02:58:00,582 - INFO - Core rate limit: 5000
+Core requests remaining: 4989
+Core requests used: 11
+2025-02-16 02:58:00,762 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 02:58:07,358 - INFO - Core rate limit: 5000
+Core requests remaining: 4987
+Core requests used: 13
+2025-02-16 02:58:07,358 - INFO - Changes downloaded successfully during login.
+2025-02-16 02:58:10,036 - INFO - Core rate limit: 5000
+Core requests remaining: 4984
+Core requests used: 16
+2025-02-16 02:58:10,245 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 02:58:25,710 - INFO - No contacts found for ID: 5050
+2025-02-16 02:58:36,300 - INFO - No contacts found for query: test3
+2025-02-16 03:08:10,639 - INFO - Core rate limit: 5000
+Core requests remaining: 4981
+Core requests used: 19
+2025-02-16 03:08:10,729 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 03:09:39,546 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:09:39,626 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:09:39,906 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:09:39,909 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:10:12,920 - INFO - Core rate limit: 5000
+Core requests remaining: 4979
+Core requests used: 21
+2025-02-16 03:10:12,921 - INFO - Changes downloaded successfully during login.
+2025-02-16 03:10:15,605 - INFO - Core rate limit: 5000
+Core requests remaining: 4976
+Core requests used: 24
+2025-02-16 03:10:15,843 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 03:10:21,762 - INFO - No contacts found for ID: 5050
+2025-02-16 03:10:26,278 - INFO - No contacts found for ID: 5050
+2025-02-16 03:10:33,122 - INFO - No contacts found for query: test3
+2025-02-16 03:14:00,223 - INFO - No contacts found for query: test3
+2025-02-16 03:15:47,287 - INFO - Core rate limit: 5000
+Core requests remaining: 4973
+Core requests used: 27
+2025-02-16 03:15:47,389 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 03:15:55,508 - INFO - Core rate limit: 5000
+Core requests remaining: 4971
+Core requests used: 29
+2025-02-16 03:15:55,508 - INFO - Changes downloaded successfully during login.
+2025-02-16 03:15:58,165 - INFO - Core rate limit: 5000
+Core requests remaining: 4968
+Core requests used: 32
+2025-02-16 03:15:58,264 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 03:16:25,098 - INFO - No contacts found for query: test3
+2025-02-16 03:16:35,841 - INFO - Core rate limit: 5000
+Core requests remaining: 4965
+Core requests used: 35
+2025-02-16 03:16:36,010 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 03:16:44,141 - INFO - Core rate limit: 5000
+Core requests remaining: 4963
+Core requests used: 37
+2025-02-16 03:16:44,141 - INFO - Changes downloaded successfully during login.
+2025-02-16 03:16:46,842 - INFO - Core rate limit: 5000
+Core requests remaining: 4960
+Core requests used: 40
+2025-02-16 03:16:46,972 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 03:19:57,929 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:19:58,512 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:19:58,810 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:19:59,013 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:20:20,671 - INFO - Core rate limit: 5000
+Core requests remaining: 4957
+Core requests used: 43
+2025-02-16 03:20:20,859 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 03:20:29,138 - INFO - Core rate limit: 5000
+Core requests remaining: 4955
+Core requests used: 45
+2025-02-16 03:20:29,138 - INFO - Changes downloaded successfully during login.
+2025-02-16 03:20:31,739 - INFO - Core rate limit: 5000
+Core requests remaining: 4952
+Core requests used: 48
+2025-02-16 03:20:31,873 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 03:20:49,781 - INFO - No contacts found for ID: 5050
+2025-02-16 03:22:10,644 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:22:10,952 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:22:11,003 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:22:11,033 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:22:58,113 - INFO - Core rate limit: 5000
+Core requests remaining: 4949
+Core requests used: 51
+2025-02-16 03:22:58,263 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 03:23:04,185 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:23:04,505 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:23:04,807 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:23:04,845 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:23:19,465 - INFO - Core rate limit: 5000
+Core requests remaining: 4947
+Core requests used: 53
+2025-02-16 03:23:19,465 - INFO - Changes downloaded successfully during login.
+2025-02-16 03:23:22,065 - INFO - Core rate limit: 5000
+Core requests remaining: 4944
+Core requests used: 56
+2025-02-16 03:23:22,207 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 03:33:25,271 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:33:25,458 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:33:25,654 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:33:25,693 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:33:56,550 - INFO - Core rate limit: 5000
+Core requests remaining: 4941
+Core requests used: 59
+2025-02-16 03:33:56,712 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 03:34:04,705 - INFO - Core rate limit: 5000
+Core requests remaining: 4939
+Core requests used: 61
+2025-02-16 03:34:04,705 - INFO - Changes downloaded successfully during login.
+2025-02-16 03:34:07,375 - INFO - Core rate limit: 5000
+Core requests remaining: 4936
+Core requests used: 64
+2025-02-16 03:34:07,466 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 03:34:21,194 - INFO - No contacts found for query: test3
+2025-02-16 03:36:38,465 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:36:38,522 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:36:38,799 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:36:39,359 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 03:36:53,332 - INFO - Core rate limit: 5000
+Core requests remaining: 4933
+Core requests used: 67
+2025-02-16 03:36:53,451 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 03:36:59,212 - INFO - Core rate limit: 5000
+Core requests remaining: 4931
+Core requests used: 69
+2025-02-16 03:36:59,212 - INFO - Changes downloaded successfully during login.
+2025-02-16 03:37:01,855 - INFO - Core rate limit: 5000
+Core requests remaining: 4928
+Core requests used: 72
+2025-02-16 03:37:02,042 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 03:37:36,270 - INFO - No contacts found for ID: 5050
+2025-02-16 03:38:38,902 - INFO - Core rate limit: 5000
+Core requests remaining: 4925
+Core requests used: 75
+2025-02-16 03:38:39,042 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 04:49:55,541 - INFO - C:\Users\venus\contact_app_project3\contacts\github_sync.py changed, reloading.
+2025-02-16 04:49:56,254 - INFO - C:\Users\venus\contact_app_project3\contacts\github_sync.py changed, reloading.
+2025-02-16 04:49:55,844 - INFO - C:\Users\venus\contact_app_project3\contacts\github_sync.py changed, reloading.
+2025-02-16 04:49:56,575 - INFO - C:\Users\venus\contact_app_project3\contacts\github_sync.py changed, reloading.
+2025-02-16 05:02:38,735 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 05:02:38,337 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 05:02:38,635 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 05:02:39,562 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 05:04:04,223 - ERROR - An error occurred during download: UNIQUE constraint failed: contacts.id
+Traceback (most recent call last):
+  File "C:\Users\venus\contact_app_project3\contacts\github_sync.py", line 104, in download_changes
+    cursor.execute(query)
+    ~~~~~~~~~~~~~~^^^^^^^
+sqlite3.IntegrityError: UNIQUE constraint failed: contacts.id
+2025-02-16 05:04:04,292 - INFO - Changes downloaded successfully during login.
+2025-02-16 05:04:06,965 - INFO - Core rate limit: 5000
+Core requests remaining: 4995
+Core requests used: 5
+2025-02-16 05:04:12,761 - ERROR - Error uploading offline changes during login: database is locked
+2025-02-16 05:04:27,822 - WARNING - The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /login/
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\db.py", line 127, in save
+    obj.save(
+    ~~~~~~~~^
+        force_insert=must_create, force_update=not must_create, using=using
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1130, in _save_table
+    updated = self._do_update(
+        base_qs, using, pk_val, values, update_fields, forced_update
+    )
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1195, in _do_update
+    return filtered._update(values) > 0
+           ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1278, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 2003, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\db.py", line 136, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+    ...<3 lines>...
+    )
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+2025-02-16 05:04:52,110 - ERROR - An error occurred during download: UNIQUE constraint failed: contacts.id
+Traceback (most recent call last):
+  File "C:\Users\venus\contact_app_project3\contacts\github_sync.py", line 104, in download_changes
+    cursor.execute(query)
+    ~~~~~~~~~~~~~~^^^^^^^
+sqlite3.IntegrityError: UNIQUE constraint failed: contacts.id
+2025-02-16 05:04:52,110 - INFO - Changes downloaded successfully during login.
+2025-02-16 05:04:54,704 - INFO - Core rate limit: 5000
+Core requests remaining: 4990
+Core requests used: 10
+2025-02-16 05:05:00,280 - ERROR - Error uploading offline changes during login: database is locked
+2025-02-16 05:05:05,953 - WARNING - The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /login/
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\db.py", line 127, in save
+    obj.save(
+    ~~~~~~~~^
+        force_insert=must_create, force_update=not must_create, using=using
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1130, in _save_table
+    updated = self._do_update(
+        base_qs, using, pk_val, values, update_fields, forced_update
+    )
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1195, in _do_update
+    return filtered._update(values) > 0
+           ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1278, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 2003, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\db.py", line 136, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+    ...<3 lines>...
+    )
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+2025-02-16 05:07:48,410 - ERROR - An error occurred during download: UNIQUE constraint failed: contacts.id
+Traceback (most recent call last):
+  File "C:\Users\venus\contact_app_project3\contacts\github_sync.py", line 104, in download_changes
+    cursor.execute(query)
+    ~~~~~~~~~~~~~~^^^^^^^
+sqlite3.IntegrityError: UNIQUE constraint failed: contacts.id
+2025-02-16 05:07:48,430 - INFO - Changes downloaded successfully during login.
+2025-02-16 05:07:51,037 - INFO - Core rate limit: 5000
+Core requests remaining: 4985
+Core requests used: 15
+2025-02-16 05:07:57,200 - ERROR - Error uploading offline changes during login: database is locked
+2025-02-16 05:08:03,652 - WARNING - The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /login/
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\db.py", line 127, in save
+    obj.save(
+    ~~~~~~~~^
+        force_insert=must_create, force_update=not must_create, using=using
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1130, in _save_table
+    updated = self._do_update(
+        base_qs, using, pk_val, values, update_fields, forced_update
+    )
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1195, in _do_update
+    return filtered._update(values) > 0
+           ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1278, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 2003, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\db.py", line 136, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+    ...<3 lines>...
+    )
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+2025-02-16 05:14:38,329 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 05:14:38,730 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 05:14:39,065 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 05:14:39,218 - INFO - C:\Users\venus\contact_app_project3\contacts\views.py changed, reloading.
+2025-02-16 05:15:27,460 - ERROR - An error occurred during download: UNIQUE constraint failed: contacts.id
+Traceback (most recent call last):
+  File "C:\Users\venus\contact_app_project3\contacts\github_sync.py", line 104, in download_changes
+    cursor.execute(query)
+    ~~~~~~~~~~~~~~^^^^^^^
+sqlite3.IntegrityError: UNIQUE constraint failed: contacts.id
+2025-02-16 05:15:27,569 - INFO - Changes downloaded successfully during login.
+2025-02-16 05:15:30,219 - INFO - Core rate limit: 5000
+Core requests remaining: 4980
+Core requests used: 20
+2025-02-16 05:15:35,892 - ERROR - Error uploading offline changes during login: database is locked
+2025-02-16 05:15:42,438 - WARNING - The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.: /login/
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\db.py", line 127, in save
+    obj.save(
+    ~~~~~~~~^
+        force_insert=must_create, force_update=not must_create, using=using
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 892, in save
+    self.save_base(
+    ~~~~~~~~~~~~~~^
+        using=using,
+        ^^^^^^^^^^^^
+    ...<2 lines>...
+        update_fields=update_fields,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 998, in save_base
+    updated = self._save_table(
+        raw,
+    ...<4 lines>...
+        update_fields,
+    )
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1130, in _save_table
+    updated = self._do_update(
+        base_qs, using, pk_val, values, update_fields, forced_update
+    )
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\base.py", line 1195, in _do_update
+    return filtered._update(values) > 0
+           ~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\query.py", line 1278, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 2003, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\models\sql\compiler.py", line 1574, in execute_sql
+    cursor.execute(sql, params)
+    ~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sql, params, many=False, executor=self._execute
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\db\backends\sqlite3\base.py", line 354, in execute
+    return super().execute(query, params)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^
+django.db.utils.OperationalError: database is locked
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\middleware.py", line 59, in process_response
+    request.session.save()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\backends\db.py", line 136, in save
+    raise UpdateError
+django.contrib.sessions.backends.base.UpdateError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\utils\deprecation.py", line 131, in __call__
+    response = self.process_response(request, response)
+  File "C:\Users\venus\AppData\Local\Programs\Python\Python313\Lib\site-packages\django\contrib\sessions\middleware.py", line 61, in process_response
+    raise SessionInterrupted(
+    ...<3 lines>...
+    )
+django.contrib.sessions.exceptions.SessionInterrupted: The request's session was deleted before the request completed. The user may have logged out in a concurrent request, for example.
+2025-02-16 05:18:55,347 - INFO - C:\Users\venus\contact_app_project3\contacts\github_sync.py changed, reloading.
+2025-02-16 05:18:55,396 - INFO - C:\Users\venus\contact_app_project3\contacts\github_sync.py changed, reloading.
+2025-02-16 05:18:56,078 - INFO - C:\Users\venus\contact_app_project3\contacts\github_sync.py changed, reloading.
+2025-02-16 05:18:56,139 - INFO - C:\Users\venus\contact_app_project3\contacts\github_sync.py changed, reloading.
+2025-02-16 05:20:03,261 - INFO - Core rate limit: 5000
+Core requests remaining: 4978
+Core requests used: 22
+2025-02-16 05:20:03,295 - INFO - Changes downloaded successfully during login.
+2025-02-16 05:20:06,043 - INFO - Core rate limit: 5000
+Core requests remaining: 4975
+Core requests used: 25
+2025-02-16 05:20:06,242 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 05:20:17,679 - INFO - No contacts found for ID: 5050
+2025-02-16 05:22:19,220 - INFO - Core rate limit: 5000
+Core requests remaining: 4972
+Core requests used: 28
+2025-02-16 05:22:19,339 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 05:22:25,562 - INFO - Core rate limit: 5000
+Core requests remaining: 4970
+Core requests used: 30
+2025-02-16 05:22:25,562 - INFO - Changes downloaded successfully during login.
+2025-02-16 05:22:28,343 - INFO - Core rate limit: 5000
+Core requests remaining: 4967
+Core requests used: 33
+2025-02-16 05:22:28,446 - INFO - Offline changes uploaded successfully during login.
+2025-02-16 05:22:33,278 - INFO - No contacts found for ID: 5050
+2025-02-16 05:26:28,362 - INFO - queueing changes successfully.
+2025-02-16 05:26:28,843 - INFO - Core rate limit: 5000
+Core requests remaining: 4964
+Core requests used: 36
+2025-02-16 05:26:54,234 - INFO - queueing changes successfully.
+2025-02-16 05:26:54,697 - INFO - Core rate limit: 5000
+Core requests remaining: 4961
+Core requests used: 39
+2025-02-16 05:27:07,019 - INFO - queueing changes successfully.
+2025-02-16 05:27:07,473 - INFO - Core rate limit: 5000
+Core requests remaining: 4958
+Core requests used: 42
+2025-02-16 06:02:43,105 - INFO - Core rate limit: 5000
+Core requests remaining: 4955
+Core requests used: 45
+2025-02-16 06:02:43,262 - INFO - Offline changes uploaded successfully during logout.
+2025-02-16 06:02:53,539 - INFO - Core rate limit: 5000
+Core requests remaining: 4953
+Core requests used: 47
+2025-02-16 06:02:53,539 - INFO - Changes downloaded successfully during login.
+2025-02-16 06:03:01,547 - INFO - Core rate limit: 5000
+Core requests remaining: 4950
+Core requests used: 50
+2025-02-16 06:03:02,016 - INFO - Offline changes uploaded successfully during login.

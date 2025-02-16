@@ -1,0 +1,18 @@
+{% extends 'contacts/base.html' %}
+
+{% block content %}
+<h1>Contact Details</h1>
+{% if contact %}
+<div>
+    <p><strong>ID:</strong> {{ contact.id }}</p>
+    <p><strong>Name:</strong> {{ contact.name }}</p>
+    <p><strong>Company:</strong> {{ contact.company }}</p>
+    <p><strong>Card 1:</strong> {{ contact.card1 }}</p>
+    <p><strong>Card 2:</strong> {{ contact.card2 }}</p>
+    <p><strong>Phone:</strong> {{ contact.phone }}</p>
+</div>
+<a href="{% url 'home' %}" class="action-button">Back to Home</a>
+{% else %}
+<p>Contact not found.</p>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,39 @@
+{% extends 'contacts/base.html' %}
+
+{% block content %}
+<h1>All Contacts</h1>
+
+<ul class="contact-list">
+    {% for contact in contacts %}
+    <li>
+        <strong>ID:</strong> {{ contact.id }}<br>
+        <strong>Name:</strong> {{ contact.name }}<br>
+        <strong>Company:</strong> {{ contact.company }}<br>
+        <strong>Card 1:</strong> {{ contact.card1 }}<br>
+        <strong>Card 2:</strong> {{ contact.card2 }}<br>
+        <strong>Phone:</strong> {{ contact.phone }}<br>
+        <br>
+        <a href="{% url 'update_contact' contact.id %}" class="action-button">Edit</a>
+        <form action="{% url 'delete_contact' contact.id %}" method="POST" style="display:inline;"  onsubmit="return confirmDelete('{{ contact.name }}');">
+            {% csrf_token %}
+            <button type="submit" class="action-button">Delete</button>
+            <p>-----------------------------------------</p>
+        </form>
+    </li>
+    {% empty %}
+    <li>No contacts found.</li>
+    {% endfor %}
+</ul>
+
+<a href="{% url 'home' %}" class="action-button">Back to Home</a>
+
+<!-- Add JavaScript for Confirmation Dialog -->
+<script>
+    function confirmDelete(contactName) {
+        // Prompt the user with a confirmation message
+        return confirm(`Do you really want to delete "${contactName}"?`);
+    }
+</script>
+
+{% endblock %}
+
